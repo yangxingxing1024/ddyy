@@ -5,7 +5,7 @@ public class xdy {
     private Integer id;
     private String bb;
     private String gender;
-
+    private String xxxx;
     public String getGender() {
         return gender;
     }
