@@ -4,6 +4,15 @@ public class xdy {
     private String username;
     private Integer id;
     private String bb;
+    private String gender;
+
+    public String getGender() {
+        return gender;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
 
     public String getUsername() {
         return username;
