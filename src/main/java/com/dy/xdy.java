@@ -7,7 +7,7 @@ public class xdy {
     private String gender;
     private String xxxx;
     private String yy;
-
+    private String ss;
     public String getGender() {
         return gender;
     }
