@@ -8,6 +8,7 @@ public class xdy {
     private String xxxx;
     private String yy;
     private String dbb0717;
+    private String dbb0824;
 
     public String getGender() {
         return gender;
