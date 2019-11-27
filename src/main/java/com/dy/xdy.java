@@ -7,7 +7,9 @@ public class xdy {
     private String gender;
     private String xxxx;
     private String yy;
-    private String ss;
+    private String dbb0717;
+    private String dbb0824;
+    private String dd;
     public String getGender() {
         return gender;
     }
