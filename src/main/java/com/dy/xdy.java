@@ -11,6 +11,7 @@ public class xdy {
     private String dbb0824;
     private String dd;
     private String ss;
+    private String dybwan;
     public String getGender() {
         return gender;
     }
